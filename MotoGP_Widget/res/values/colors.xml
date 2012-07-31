@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <drawable name="red">#CC0000</drawable>
+    <drawable name="blue">#0099CC</drawable>
+    <drawable name="green">#669900</drawable>
+    <drawable name="orange">#FF8800</drawable>
+    <drawable name="purple">#9933CC</drawable>
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+    <drawable name="person_price_text">#333333</drawable>
+
+    <color name="solid_white">#FFFFFF</color>
+    <color name="solid_red">#CC0000</color>
+    <color name="solid_blue">#0099CC</color>
+    <color name="solid_green">#669900</color>
+    <color name="solid_orange">#FF8800</color>
+    <color name="solid_purple">#9933CC</color>
+    
+    
+    <color name="mild_red">#FF4444</color>
+    <color name="mild_blue">#33B5E5</color>
+    <color name="mild_green">#99CC00</color>
+    <color name="mild_orange">#FFBB33</color>
+    <color name="mild_purple">#AA66CC</color>
+    
+    <color name="darkest_grey">#333333</color>
+    <color name="dark_grey">#666666</color>
+    <color name="mild_grey">#DDDDDD</color>
+    <color name="light_grey">#EEEEEE</color>
+    
+    <color name="transparent">#00000000</color>    
+</resources>

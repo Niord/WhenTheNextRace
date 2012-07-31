@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal|center_vertical"
+    android:background="@drawable/rc_linearlayout"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/cirquit"
+        style="@style/NiordHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/grandprix"
+        style="@style/NiordHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/date"
+        style="@style/NiordHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/hello"
+        android:textSize="14sp" />
+
+</LinearLayout>
